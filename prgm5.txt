@@ -1,2 +1,5 @@
 enter a data
 Good Morning sonu
+good morning 
+CSE C
+Create a new file
